@@ -1,0 +1,8 @@
+package five;
+
+public class TeamFive {
+
+	public static void main(String[] args) {
+		System.out.println("Team Five Initial code...");
+	}
+}
