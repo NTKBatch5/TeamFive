@@ -6,5 +6,7 @@ public class TeamFive {
 		System.out.println("Team Five Initial code...");
 
 		System.out.println("Vlad's changes");
+		
+		System.out.println("Minky's input");
 	}
 }
