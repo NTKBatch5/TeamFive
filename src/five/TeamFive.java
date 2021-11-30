@@ -8,5 +8,7 @@ public class TeamFive {
 		System.out.println("Vlad's changes");
 		
 		System.out.println("Minky's input");
+		
+		System.out.println("Hi, team five! from minky");
 	}
 }
