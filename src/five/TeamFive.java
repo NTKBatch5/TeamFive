@@ -9,15 +9,11 @@ public class TeamFive {
 		
 		System.out.println("Minky's input");
 		
+
+
 		System.out.println("Rava's turn");
 
 		System.out.println("Giancarlo's time");
-		
-		System.out.println("Hello!");
-		
-		System.out.println("HELLO!");
-		
-		System.out.println("I'm trying to create a conflict.");
 
 		
 		System.out.println("Hi, team five! from minky");
