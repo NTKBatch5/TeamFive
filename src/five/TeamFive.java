@@ -9,6 +9,9 @@ public class TeamFive {
 		
 		System.out.println("Minky's input");
 		
-		System.out.println("Hi, team five! from minky");
+
+
+		System.out.println("Rava's turn");
+ 
 	}
 }
