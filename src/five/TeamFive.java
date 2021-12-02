@@ -17,7 +17,5 @@ public class TeamFive {
 
 		
 		System.out.println("Hi, team five! from minky");
-		
-		System.out.println("review");
 	}
 }
