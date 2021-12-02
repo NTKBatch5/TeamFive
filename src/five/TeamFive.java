@@ -17,5 +17,13 @@ public class TeamFive {
 
 		
 		System.out.println("Hi, team five! from minky");
+		
+		System.out.println("Rava' try ");
+
+		System.out.println("New sysout");
+
+		System.out.println("Merging from Stage to Master");
+		
+		System.out.println(" Review process");
 	}
 }
